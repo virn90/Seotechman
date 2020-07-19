@@ -1,23 +1,23 @@
 {
     "name": "Seotechman.eu.org",
     "short_name": "Seotechman.eu.org",
-    "description": "Digital Marketing, Seo, Tips, Tutorial, Blogging, Dan Tempat Untuk Berbagi Info-Info Menarik, Serta Berita Terbaru Lainnya",
+    "description": "Tempat berbagi berbagai macam template blog, yang siap untuk didownload secara gratis buat para blogger dan penulis blog lainnya.",
     "icons": [
         {
-            "src": "https://www.seotechman.eu.org/favicon.ico",
+            "src": "https://cdn.statically.io/img/4.bp.blogspot.com/-ElGIRyF_fug/XodqpOeMHkI/AAAAAAAAChI/ONj9OAXYsPotSTPXFp6CwpzbH6y452skACLcBGAsYHQ/s192/android-icon-192x192.png",
             "sizes": "192x192",
-            "type": "image/ico"
+            "type": "image/png"
         },
         {
-            "src": "https://www.seotechman.com/favicon.ico",
+            "src": "https://cdn.statically.io/gh/virn90/seotechmancom/766499e1/maskable_icon.png",
             "sizes": "1500x1500",
-            "type": "image/ico",
+            "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "https://www.seotechman.com/favicon.ico",
+            "src": "https://cdn.statically.io/gh/virn90/seotechmancom/6ad971e7/android-chrome-512x512.png",
             "sizes": "512x512",
-            "type": "image/ico"
+            "type": "image/png"
         }
     ],
     "start_url": "https://www.seotechman.eu.org/?utm_source=webapps",
@@ -26,6 +26,6 @@
     "display": "standalone",
     "prefer_related_applications": true,
     "orientation": "portrait",
-    "background_color": "#f5f6f7",
-    "theme_color": "#0d3c82"
+    "background_color": "#FFFFFF",
+    "theme_color": "#313A73"
 }
